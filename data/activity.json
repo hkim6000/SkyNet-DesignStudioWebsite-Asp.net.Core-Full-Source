@@ -1,0 +1,34 @@
+[
+  {
+    "when": "2026-10-21T20:53:23.759825Z",
+    "userId": "u-demo",
+    "who": "Demo manager",
+    "action": "sign in",
+    "target": "demo",
+    "ok": true
+  },
+  {
+    "when": "2026-10-21T20:48:17.3678591Z",
+    "userId": "u-demo",
+    "who": "Demo manager",
+    "action": "sign in",
+    "target": "demo",
+    "ok": true
+  },
+  {
+    "when": "2026-10-21T20:39:39.7632726Z",
+    "userId": "u-demo",
+    "who": "Demo manager",
+    "action": "sign in",
+    "target": "demo",
+    "ok": true
+  },
+  {
+    "when": "2026-10-21T20:35:52.0778735Z",
+    "userId": "u-demo",
+    "who": "Demo manager",
+    "action": "sign in",
+    "target": "demo",
+    "ok": true
+  }
+]

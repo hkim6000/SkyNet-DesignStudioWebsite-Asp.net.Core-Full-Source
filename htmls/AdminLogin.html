@@ -1,0 +1,22 @@
+<div class="lg-site" data-page="AdminLogin">
+<main class="lg-wrap">
+    <div class="lg-card">
+        <a class="lg-brand" href="Home"><img src="images/logo.svg" alt="" width="38" height="38"><span>{plhd_brand}</span></a>
+        <h1>Staff sign in</h1>
+        {plhd_first}
+        {plhd_demo}
+        <form id="lg-form" onsubmit="return LoginJs.submit()" novalidate>
+            <label class="lg-f" for="lg-login"><span>User name</span><input type="text" id="lg-login" autocomplete="username" maxlength="60" value="{plhd_login}"></label>
+            <label class="lg-f" for="lg-pass"><span>Password</span><input type="password" id="lg-pass" autocomplete="current-password" maxlength="100" value="{plhd_pass}"></label>
+            <div id="lg-choose" hidden>
+                <p class="lg-hint">Choose your own password to continue. Use at least 8 characters.</p>
+                <label class="lg-f" for="lg-npass"><span>New password</span><input type="password" id="lg-npass" autocomplete="new-password" maxlength="100"></label>
+                <label class="lg-f" for="lg-npass2"><span>New password again</span><input type="password" id="lg-npass2" autocomplete="new-password" maxlength="100"></label>
+            </div>
+            <em class="lg-err" id="lg-err" role="alert"></em>
+            <button type="submit" class="lg-btn" id="lg-go">Sign in</button>
+        </form>
+        <a class="lg-back" href="Home">Back to the website</a>
+    </div>
+</main>
+</div>

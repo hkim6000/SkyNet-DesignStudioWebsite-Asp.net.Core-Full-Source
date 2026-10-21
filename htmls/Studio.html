@@ -1,0 +1,38 @@
+<div class="su-site" data-page="Studio">
+<a class="su-skip" href="#su-main">Skip to content</a>
+<header class="su-head" id="su-head">
+    <div class="su-wrap su-head-row">
+        <button type="button" class="su-burger" aria-label="Menu" onclick="StudioJs.openNav()"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+        <a class="su-logo" href="Home" aria-label="{plhd_brand} home"><img src="images/logo.svg" alt="" width="34" height="34"><span>{plhd_brand}</span></a>
+        <nav class="su-nav" id="su-nav" aria-label="Main">
+            <div class="su-nav-top"><b>Menu</b><button type="button" class="su-ibtn" aria-label="Close menu" onclick="StudioJs.closeNav()"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+            <ul class="su-menu">
+                <li><a class="su-ml" href="Home">Home</a></li>
+                <li><a class="su-ml" href="Projects">Projects</a></li>
+                <li><a class="su-ml" href="Services">Services</a></li>
+                <li><a class="su-ml su-on" href="Studio">Studio</a></li>
+                <li><a class="su-ml" href="Journal">Journal</a></li>
+                <li><a class="su-ml" href="Contact">Contact</a></li>
+            </ul>
+        </nav>
+        <a class="su-btn su-head-cta" href="Contact">Start a project</a>
+    </div>
+    <div class="su-scrim" id="su-scrim" onclick="StudioJs.closeNav()"></div>
+</header>
+<main class="su-main" id="su-main">
+{plhd_blocks}
+</main>
+<footer class="su-foot">
+    <div class="su-wrap su-foot-in">
+        <div class="su-fbrand">
+            <a class="su-logo" href="Home"><img src="images/logo.svg" alt="" width="34" height="34"><span>{plhd_brand}</span></a>
+            <p>{plhd_tag}</p>
+        </div>
+        <div class="su-fcol"><h2>Explore</h2><ul><li><a href="Projects">Projects</a></li><li><a href="Services">Services</a></li><li><a href="Studio">Studio</a></li><li><a href="Journal">Journal and press</a></li></ul></div>
+        <div class="su-fcol"><h2>Start a project</h2><ul><li><a href="Contact">Send an inquiry</a></li><li><a href="Services">What we offer</a></li><li><a href="Studio">Meet the team</a></li></ul></div>
+        <div class="su-fcol"><h2>Visit and write</h2><ul class="su-fcontact">{plhd_fcontact}</ul></div>
+    </div>
+    <div class="su-wrap su-foot-b"><span>&copy; {plhd_year} {plhd_brand}. Sample content for a demonstration site.</span><a href="AdminLogin">Staff sign in</a></div>
+</footer>
+<div class="su-toast" id="su-toast" role="status" aria-live="polite"></div>
+</div>

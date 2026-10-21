@@ -1,0 +1,38 @@
+<div class="jn-site" data-page="Journal">
+<a class="jn-skip" href="#jn-main">Skip to content</a>
+<header class="jn-head" id="jn-head">
+    <div class="jn-wrap jn-head-row">
+        <button type="button" class="jn-burger" aria-label="Menu" onclick="JournalJs.openNav()"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+        <a class="jn-logo" href="Home" aria-label="{plhd_brand} home"><img src="images/logo.svg" alt="" width="34" height="34"><span>{plhd_brand}</span></a>
+        <nav class="jn-nav" id="jn-nav" aria-label="Main">
+            <div class="jn-nav-top"><b>Menu</b><button type="button" class="jn-ibtn" aria-label="Close menu" onclick="JournalJs.closeNav()"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+            <ul class="jn-menu">
+                <li><a class="jn-ml" href="Home">Home</a></li>
+                <li><a class="jn-ml" href="Projects">Projects</a></li>
+                <li><a class="jn-ml" href="Services">Services</a></li>
+                <li><a class="jn-ml" href="Studio">Studio</a></li>
+                <li><a class="jn-ml jn-on" href="Journal">Journal</a></li>
+                <li><a class="jn-ml" href="Contact">Contact</a></li>
+            </ul>
+        </nav>
+        <a class="jn-btn jn-head-cta" href="Contact">Start a project</a>
+    </div>
+    <div class="jn-scrim" id="jn-scrim" onclick="JournalJs.closeNav()"></div>
+</header>
+<main class="jn-main" id="jn-main">
+{plhd_blocks}
+</main>
+<footer class="jn-foot">
+    <div class="jn-wrap jn-foot-in">
+        <div class="jn-fbrand">
+            <a class="jn-logo" href="Home"><img src="images/logo.svg" alt="" width="34" height="34"><span>{plhd_brand}</span></a>
+            <p>{plhd_tag}</p>
+        </div>
+        <div class="jn-fcol"><h2>Explore</h2><ul><li><a href="Projects">Projects</a></li><li><a href="Services">Services</a></li><li><a href="Studio">Studio</a></li><li><a href="Journal">Journal and press</a></li></ul></div>
+        <div class="jn-fcol"><h2>Start a project</h2><ul><li><a href="Contact">Send an inquiry</a></li><li><a href="Services">What we offer</a></li><li><a href="Studio">Meet the team</a></li></ul></div>
+        <div class="jn-fcol"><h2>Visit and write</h2><ul class="jn-fcontact">{plhd_fcontact}</ul></div>
+    </div>
+    <div class="jn-wrap jn-foot-b"><span>&copy; {plhd_year} {plhd_brand}. Sample content for a demonstration site.</span><a href="AdminLogin">Staff sign in</a></div>
+</footer>
+<div class="jn-toast" id="jn-toast" role="status" aria-live="polite"></div>
+</div>

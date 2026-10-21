@@ -1,0 +1,1089 @@
+{
+  "brand": "Lumen & Line",
+  "tagline": "Architecture and interior design",
+  "phone": "+44 20 5550 0142",
+  "email": "hello@lumenandline.example",
+  "address": "14 Calder Quay, Northgate NG1 4QD",
+  "hours": "Monday to Friday, 9:00 to 17:30. Studio visits by appointment.",
+  "maxVideoMb": 30,
+  "budgets": [
+    "Under 25,000",
+    "25,000 to 100,000",
+    "100,000 to 400,000",
+    "Over 400,000",
+    "Not sure yet"
+  ],
+  "timelines": [
+    "As soon as possible",
+    "Within 6 months",
+    "Within a year",
+    "Just exploring"
+  ],
+  "pages": {
+    "home": {
+      "blocks": [
+        {
+          "id": "bhome00001",
+          "type": "hero",
+          "source": "",
+          "hidden": false,
+          "kicker": "Architecture and interior design",
+          "title": "Rooms that hold the light",
+          "text": "<p>{name} designs houses, interiors and places to gather. We draw every project by hand, then build it with people we trust.</p>",
+          "media": "images/studio/studio-front.webp",
+          "label": "See our projects",
+          "link": "Projects",
+          "label2": "Start a project",
+          "link2": "Contact",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "images/studio/studio-reception.webp",
+              "title": "Entrance hall",
+              "text": "",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "images/studio/studio-drawing-room.webp",
+              "title": "Drawing room",
+              "text": "",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "images/studio/studio-model-room.webp",
+              "title": "Model room",
+              "text": "",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "images/studio/studio-material-library.webp",
+              "title": "Material library",
+              "text": "",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "bhome00002",
+          "type": "data",
+          "source": "featured",
+          "hidden": false,
+          "kicker": "Selected work",
+          "title": "Recent projects",
+          "text": "<p>Houses, interiors and small public buildings, from first sketch to the day the keys change hands.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bhome00003",
+          "type": "stats",
+          "source": "",
+          "hidden": false,
+          "kicker": "The practice in numbers",
+          "title": "",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "",
+              "title": "63",
+              "text": "Projects completed",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "14",
+              "text": "Years in practice",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "4",
+              "text": "Designers under one roof",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "30+",
+              "text": "Trades we work with regularly",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "bhome00004",
+          "type": "split",
+          "source": "",
+          "hidden": false,
+          "kicker": "How we work",
+          "title": "We start with a walk, not a drawing",
+          "text": "<p>Before a line is drawn we visit the site, or the room, at different times of day. We note where the light lands, where the wind comes from and how people already move through the space.</p><p>Then we make models, samples and plenty of sketches, so you can judge ideas with your hands and not only on screen.</p>",
+          "media": "images/journal/material-palette.webp",
+          "label": "About the studio",
+          "link": "Studio",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bhome00005",
+          "type": "data",
+          "source": "servicesnap",
+          "hidden": false,
+          "kicker": "What we do",
+          "title": "Services for every stage",
+          "text": "<p>From a first feasibility study to the last piece of furniture.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bhome00006",
+          "type": "data",
+          "source": "journalsnap",
+          "hidden": false,
+          "kicker": "Journal and press",
+          "title": "Latest notes and news",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bhome00007",
+          "type": "cta",
+          "source": "",
+          "hidden": false,
+          "kicker": "Start a project",
+          "title": "Have a building or a room in mind?",
+          "text": "<p>Tell us about it. We reply within two working days and the first conversation is free.</p>",
+          "media": "",
+          "label": "Send an inquiry",
+          "link": "Contact",
+          "label2": "See our services",
+          "link2": "Services",
+          "flip": false,
+          "items": []
+        }
+      ],
+      "versions": [],
+      "saved": "0001-01-01T00:00:00",
+      "by": ""
+    },
+    "projects": {
+      "blocks": [
+        {
+          "id": "bproj00001",
+          "type": "data",
+          "source": "projectlist",
+          "hidden": false,
+          "kicker": "Portfolio",
+          "title": "Projects",
+          "text": "<p>Houses, interiors and small public buildings. Filter by type or year, or search by name and place.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bproj00002",
+          "type": "cta",
+          "source": "",
+          "hidden": false,
+          "kicker": "",
+          "title": "Planning something similar?",
+          "text": "<p>Every project starts with a conversation about the place and the people who will use it.</p>",
+          "media": "",
+          "label": "Start a project",
+          "link": "Contact",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        }
+      ],
+      "versions": [],
+      "saved": "0001-01-01T00:00:00",
+      "by": ""
+    },
+    "services": {
+      "blocks": [
+        {
+          "id": "bserv00001",
+          "type": "data",
+          "source": "servicelist",
+          "hidden": false,
+          "kicker": "Services",
+          "title": "What we do for you",
+          "text": "<p>Choose one service, or let us take a project from the first sketch to the last piece of furniture.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bserv00002",
+          "type": "steps",
+          "source": "",
+          "hidden": false,
+          "kicker": "How a project runs",
+          "title": "Five stages, no surprises",
+          "text": "<p>Every project follows the same path, so you always know what comes next and what we need from you.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "",
+              "title": "Listen",
+              "text": "A visit to the site and a long first conversation about how you live or work.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Sketch",
+              "text": "Concept drawings, models and material samples. We refine them with you.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Develop",
+              "text": "Detailed drawings, planning applications and agreed costs.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Build",
+              "text": "We help choose the contractor and visit the site every week.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Hand over",
+              "text": "A final walk-through, a maintenance guide and a year of follow-up visits.",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "bserv00003",
+          "type": "faq",
+          "source": "",
+          "hidden": false,
+          "kicker": "",
+          "title": "Good to know",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "",
+              "title": "How do you charge?",
+              "text": "After the first meeting we agree a fixed fee for each stage. You always know the cost before a stage begins.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Do you work outside the city?",
+              "text": "Yes. We have projects within two hours by train or car, and we travel further for the right project.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Can you work with my builder?",
+              "text": "Yes. We can also recommend contractors we have worked with before.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Do you take small jobs?",
+              "text": "A kitchen or a bathroom is a good project for us. Send a short inquiry and we will say honestly whether we are the right studio.",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "bserv00004",
+          "type": "cta",
+          "source": "",
+          "hidden": false,
+          "kicker": "",
+          "title": "Not sure which service you need?",
+          "text": "<p>Describe your project in a few lines and we will suggest where to begin.</p>",
+          "media": "",
+          "label": "Send an inquiry",
+          "link": "Contact",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        }
+      ],
+      "versions": [],
+      "saved": "0001-01-01T00:00:00",
+      "by": ""
+    },
+    "studio": {
+      "blocks": [
+        {
+          "id": "bstud00001",
+          "type": "hero",
+          "source": "",
+          "hidden": false,
+          "kicker": "The studio",
+          "title": "A small practice with long attention",
+          "text": "<p>{name} is four people in a converted warehouse on Calder Quay. We keep the studio small so the people you meet at the start are the ones who see your project through.</p>",
+          "media": "images/studio/studio-drawing-room.webp",
+          "label": "See our projects",
+          "link": "Projects",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bstud00002",
+          "type": "split",
+          "source": "",
+          "hidden": false,
+          "kicker": "Our approach",
+          "title": "Drawn by hand, built with care",
+          "text": "<p>We design with pencils, card models and real samples before we open any software. It slows the first weeks down and speeds everything after.</p><p>We work closely with a small group of builders, joiners and landscape designers. They join the conversation early, which keeps drawings honest and costs predictable.</p>",
+          "media": "images/studio/studio-model-room.webp",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": true,
+          "items": []
+        },
+        {
+          "id": "bstud00003",
+          "type": "data",
+          "source": "teamlist",
+          "hidden": false,
+          "kicker": "The team",
+          "title": "People you will work with",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bstud00004",
+          "type": "boxes",
+          "source": "",
+          "hidden": false,
+          "kicker": "What we care about",
+          "title": "Three habits",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "",
+              "title": "Light first",
+              "text": "We plan around daylight and the view before furniture or finish.\nWe test ideas with models and sun studies.\nWe keep rooms simple enough for the light to do the work.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Honest materials",
+              "text": "We choose materials that age well.\nWe use fewer finishes, used well.\nWe keep a library you can handle before you decide.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Clear numbers",
+              "text": "Fixed fees agreed stage by stage.\nCost plans before tender.\nA single contact for every question.",
+              "link": "",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "id": "bstud00005",
+          "type": "cta",
+          "source": "",
+          "hidden": false,
+          "kicker": "",
+          "title": "Come and visit the studio",
+          "text": "<p>We are happy to show you the model room and the material library. Please book a time first.</p>",
+          "media": "",
+          "label": "Get in touch",
+          "link": "Contact",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        }
+      ],
+      "versions": [],
+      "saved": "0001-01-01T00:00:00",
+      "by": ""
+    },
+    "journal": {
+      "blocks": [
+        {
+          "id": "bjour00001",
+          "type": "data",
+          "source": "journallist",
+          "hidden": false,
+          "kicker": "Journal and press",
+          "title": "Notes from the studio",
+          "text": "<p>Short essays on how we work, and where our projects have been written about.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        }
+      ],
+      "versions": [],
+      "saved": "0001-01-01T00:00:00",
+      "by": ""
+    },
+    "contact": {
+      "blocks": [
+        {
+          "id": "bcont00001",
+          "type": "data",
+          "source": "contactform",
+          "hidden": false,
+          "kicker": "Contact",
+          "title": "Tell us about your project",
+          "text": "<p>A few lines are enough. We reply within two working days, and the first conversation is free.</p>",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": []
+        },
+        {
+          "id": "bcont00002",
+          "type": "faq",
+          "source": "",
+          "hidden": false,
+          "kicker": "",
+          "title": "Before you write",
+          "text": "",
+          "media": "",
+          "label": "",
+          "link": "",
+          "label2": "",
+          "link2": "",
+          "flip": false,
+          "items": [
+            {
+              "icon": "",
+              "media": "",
+              "title": "What should I include?",
+              "text": "Where the project is, what you would like to change and roughly when you would like to start. Photographs help, and you can send them when we reply.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "What happens next?",
+              "text": "We read every inquiry personally and reply by email or phone to arrange a first conversation, usually at the site.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "Do you charge for the first meeting?",
+              "text": "No. The first conversation and a short written summary of what we would do are free.",
+              "link": "",
+              "label": ""
+            },
+            {
+              "icon": "",
+              "media": "",
+              "title": "I only have a budget, not a brief.",
+              "text": "That is a good place to begin. Choose the nearest budget range in the form and tell us what you hope to achieve.",
+              "link": "",
+              "label": ""
+            }
+          ]
+        }
+      ],
+      "versions": [],
+      "saved": "0001-01-01T00:00:00",
+      "by": ""
+    }
+  },
+  "projects": [
+    {
+      "id": "linden-house",
+      "title": "Linden House",
+      "kind": "house",
+      "location": "Ashby Green",
+      "year": 2025,
+      "size": 210,
+      "scope": [
+        "New build",
+        "Interiors",
+        "Landscape"
+      ],
+      "summary": "A two-storey family house with a timber garden room that opens onto an orchard.",
+      "story": "The clients wanted a house that felt connected to the garden in every season. We placed the living spaces on the south side, behind tall windows, and gave the kitchen a low timber island where the whole family gathers.\n\nThe walls are lime render and the garden room is clad in larch, which will silver with time. Inside, a green sofa and long bookshelves give the living room its character.",
+      "cover": "images/projects/linden-house-exterior.webp",
+      "gallery": [
+        {
+          "media": "images/projects/linden-house-living-room.webp",
+          "caption": "Living room facing the garden"
+        },
+        {
+          "media": "images/projects/linden-house-kitchen.webp",
+          "caption": "Kitchen with a timber island"
+        },
+        {
+          "media": "images/projects/linden-house-plan.webp",
+          "caption": "Ground floor plan"
+        }
+      ],
+      "pairs": [],
+      "featured": true,
+      "published": true
+    },
+    {
+      "id": "kiln-street-apartment",
+      "title": "Kiln Street Apartment",
+      "kind": "interior",
+      "location": "Marlow Quarter",
+      "year": 2025,
+      "size": 96,
+      "scope": [
+        "Interior design",
+        "Joinery",
+        "Lighting"
+      ],
+      "summary": "A city flat with deep teal walls, warm timber and one big orange sofa.",
+      "story": "A small apartment in a converted pottery. The owners love colour, so we painted the main room a deep teal and let a burnt orange sofa carry the room.\n\nThe galley kitchen is fitted in dark green with brass handles, and the bedroom is kept calm with timber, linen and soft bedside light.",
+      "cover": "images/projects/kiln-street-living-room.webp",
+      "gallery": [
+        {
+          "media": "images/projects/kiln-street-kitchen.webp",
+          "caption": "Galley kitchen"
+        },
+        {
+          "media": "images/projects/kiln-street-bedroom.webp",
+          "caption": "Bedroom"
+        }
+      ],
+      "pairs": [],
+      "featured": true,
+      "published": true
+    },
+    {
+      "id": "the-reading-room",
+      "title": "The Reading Room",
+      "kind": "interior",
+      "location": "Harbourside",
+      "year": 2024,
+      "size": 340,
+      "scope": [
+        "Interior fit-out",
+        "Shelving",
+        "Furniture"
+      ],
+      "summary": "A public reading room with long tables, green lamps and walls of books.",
+      "story": "A neighbourhood library moved into a former warehouse and asked for a room people would want to stay in. We built a double-height wall of shelving, long oak tables and a row of green reading lamps.\n\nThe window seat at the far end is the most requested spot in the building.",
+      "cover": "images/projects/reading-room-main-hall.webp",
+      "gallery": [
+        {
+          "media": "images/projects/reading-room-window-seat.webp",
+          "caption": "Window seat between the shelves"
+        },
+        {
+          "media": "images/projects/reading-room-shelving-elevation.webp",
+          "caption": "Elevation of the shelving wall"
+        }
+      ],
+      "pairs": [],
+      "featured": true,
+      "published": true
+    },
+    {
+      "id": "ember-and-oat",
+      "title": "Ember & Oat",
+      "kind": "commercial",
+      "location": "Calder Quay",
+      "year": 2024,
+      "size": 120,
+      "scope": [
+        "Interior design",
+        "Shopfront",
+        "Furniture"
+      ],
+      "summary": "A neighbourhood café with a terracotta counter, striped awning and a green banquette.",
+      "story": "The owners wanted a warm, unfussy café that works for a quick coffee and a long lunch. A terracotta-tiled counter anchors the room, and the green banquette runs along the window so every table has daylight.\n\nOutside, a striped awning and pavement tables give the corner a friendly face.",
+      "cover": "images/projects/ember-and-oat-exterior.webp",
+      "gallery": [
+        {
+          "media": "images/projects/ember-and-oat-counter.webp",
+          "caption": "Counter with five stools"
+        },
+        {
+          "media": "images/projects/ember-and-oat-seating.webp",
+          "caption": "Banquette and round tables"
+        },
+        {
+          "media": "images/projects/ember-and-oat-plan.webp",
+          "caption": "Floor plan"
+        }
+      ],
+      "pairs": [],
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "brightline-works",
+      "title": "Brightline Works",
+      "kind": "commercial",
+      "location": "Eastfield Park",
+      "year": 2023,
+      "size": 1850,
+      "scope": [
+        "Architecture",
+        "Interior design",
+        "Landscape"
+      ],
+      "summary": "A glazed office building with a deep roof and an open-plan floor full of daylight.",
+      "story": "A design company needed an office where everyone sits near a window. A deep roof shades the glazed upper floor, and a concrete band below gives the building weight.\n\nInside, rows of white desks run parallel to the façade and a quiet library room sits at the centre of the plan.",
+      "cover": "images/projects/brightline-works-exterior.webp",
+      "gallery": [
+        {
+          "media": "images/projects/brightline-works-office.webp",
+          "caption": "Open-plan office floor"
+        },
+        {
+          "media": "images/projects/brightline-works-elevation.webp",
+          "caption": "Front elevation"
+        }
+      ],
+      "pairs": [],
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "maple-row-kitchen",
+      "title": "Maple Row Kitchen",
+      "kind": "interior",
+      "location": "Maple Row",
+      "year": 2025,
+      "size": 28,
+      "scope": [
+        "Kitchen renovation",
+        "Joinery",
+        "Lighting"
+      ],
+      "summary": "A dark, tired kitchen opened up with sage cabinets, an oak floor and a family island.",
+      "story": "The old kitchen had dark cabinets, ochre walls and tiles that had seen better days. We removed one wall, replaced the floor with oak and fitted sage green cabinets with a timber island.\n\nTwo pendant lights hang over the island, which is now where homework, cooking and conversation happen at once.",
+      "cover": "images/projects/maple-row-kitchen-after.webp",
+      "gallery": [
+        {
+          "media": "images/projects/maple-row-kitchen-island.webp",
+          "caption": "The new island and stools"
+        }
+      ],
+      "pairs": [
+        {
+          "before": "images/projects/maple-row-kitchen-before.webp",
+          "after": "images/projects/maple-row-kitchen-after.webp",
+          "caption": "The kitchen before and after the work"
+        }
+      ],
+      "featured": true,
+      "published": true
+    },
+    {
+      "id": "pearl-bathroom",
+      "title": "Pearl Bathroom",
+      "kind": "interior",
+      "location": "Pearl Street",
+      "year": 2024,
+      "size": 9,
+      "scope": [
+        "Bathroom renovation",
+        "Tiling",
+        "Joinery"
+      ],
+      "summary": "A beige bathroom turned into a calm green room with a timber vanity.",
+      "story": "The clients disliked their cold, beige bathroom. We kept the layout, which worked well, and changed everything you see: green tiles to shoulder height, a timber vanity with a round basin and a brass-framed mirror.\n\nThe window stays unfrosted and looks out over the garden.",
+      "cover": "images/projects/pearl-bathroom-after.webp",
+      "gallery": [
+        {
+          "media": "images/projects/pearl-bathroom-vanity.webp",
+          "caption": "Timber vanity with a round basin"
+        }
+      ],
+      "pairs": [
+        {
+          "before": "images/projects/pearl-bathroom-before.webp",
+          "after": "images/projects/pearl-bathroom-after.webp",
+          "caption": "The bathroom before and after the work"
+        }
+      ],
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "orchard-cottage",
+      "title": "Orchard Cottage",
+      "kind": "extension",
+      "location": "Wren Lane",
+      "year": 2024,
+      "size": 118,
+      "scope": [
+        "Extension",
+        "Renovation",
+        "Garden"
+      ],
+      "summary": "A small brick cottage gains a glazed timber extension facing the orchard.",
+      "story": "The cottage was charming but dark, with a lean-to shed at the back. We replaced the shed with a glazed timber extension that holds a kitchen and dining room facing the orchard.\n\nThe new roof is a different shape from the old one on purpose, so the extension reads as a new chapter in the cottage’s story.",
+      "cover": "images/projects/orchard-cottage-after.webp",
+      "gallery": [
+        {
+          "media": "images/projects/orchard-cottage-garden-side.webp",
+          "caption": "The extension seen from the garden"
+        }
+      ],
+      "pairs": [
+        {
+          "before": "images/projects/orchard-cottage-before.webp",
+          "after": "images/projects/orchard-cottage-after.webp",
+          "caption": "The cottage before and after the extension"
+        }
+      ],
+      "featured": true,
+      "published": true
+    },
+    {
+      "id": "saltmarsh-cabin",
+      "title": "Saltmarsh Cabin",
+      "kind": "house",
+      "location": "Marsh Point",
+      "year": 2023,
+      "size": 64,
+      "scope": [
+        "New build",
+        "Interiors"
+      ],
+      "summary": "A dark timber cabin raised on posts above the marsh, lined in pine inside.",
+      "story": "A weekend cabin for two on a flood-prone marsh edge. The building stands on posts so water can pass beneath, and its dark timber skin blends with the reeds.\n\nInside, pine lines every surface, a wood stove warms the main room and a single large window frames the water.",
+      "cover": "images/projects/saltmarsh-cabin-exterior.webp",
+      "gallery": [
+        {
+          "media": "images/projects/saltmarsh-cabin-interior.webp",
+          "caption": "Living space lined in pine"
+        },
+        {
+          "media": "images/projects/saltmarsh-cabin-elevation.webp",
+          "caption": "Front elevation"
+        },
+        {
+          "media": "images/projects/saltmarsh-cabin-plan.webp",
+          "caption": "Floor plan"
+        }
+      ],
+      "pairs": [],
+      "featured": false,
+      "published": true
+    }
+  ],
+  "services": [
+    {
+      "id": "architecture",
+      "title": "Architecture",
+      "icon": "home",
+      "summary": "New houses and small buildings, designed around light, place and the way you live.",
+      "text": "We design new homes and small buildings from the first site visit to the final inspection. We handle planning applications, technical drawings and the tender, and we visit the site through construction.",
+      "points": [
+        "Site and planning appraisal",
+        "Concept, planning and technical drawings",
+        "Tender and contractor selection",
+        "Weekly site visits during the build"
+      ],
+      "duration": "9 to 18 months",
+      "image": "images/projects/linden-house-exterior.webp",
+      "published": true
+    },
+    {
+      "id": "interior-design",
+      "title": "Interior design",
+      "icon": "layers",
+      "summary": "Layouts, joinery, colour, lighting and furniture, designed together as one room.",
+      "text": "Whether it is one room or a whole home, we design the layout, the joinery and the details together, so nothing feels added afterwards. We provide samples you can handle before you decide.",
+      "points": [
+        "Space planning and joinery design",
+        "Colour and material palettes",
+        "Lighting and furniture selection",
+        "Procurement and installation"
+      ],
+      "duration": "3 to 6 months",
+      "image": "images/projects/kiln-street-living-room.webp",
+      "published": true
+    },
+    {
+      "id": "renovation",
+      "title": "Renovation and extensions",
+      "icon": "tool",
+      "summary": "New life for kitchens, bathrooms and older houses, with extensions that respect what is there.",
+      "text": "Older buildings reward patience. We survey carefully, keep what works and add only what the building needs. We have renovated kitchens, bathrooms, cottages and townhouses.",
+      "points": [
+        "Measured survey and condition notes",
+        "Planning and building regulations",
+        "Phased work plans for living at home",
+        "Close site supervision"
+      ],
+      "duration": "4 to 10 months",
+      "image": "images/projects/orchard-cottage-after.webp",
+      "published": true
+    },
+    {
+      "id": "commercial",
+      "title": "Cafés, offices and public rooms",
+      "icon": "pin",
+      "summary": "Welcoming rooms for customers, colleagues and neighbours, designed to work hard every day.",
+      "text": "We design cafés, offices and community spaces where daily use matters as much as looks. We plan circulation, acoustics and daylight with the people who will run the space.",
+      "points": [
+        "Brief workshops with your team",
+        "Layouts, counters and furniture",
+        "Lighting and acoustic planning",
+        "Shopfront and signage design"
+      ],
+      "duration": "4 to 12 months",
+      "image": "images/projects/ember-and-oat-counter.webp",
+      "published": true
+    },
+    {
+      "id": "feasibility",
+      "title": "Feasibility and consultation",
+      "icon": "compass",
+      "summary": "A half-day on site and a written report, to see what is possible before you commit.",
+      "text": "If you are unsure whether a building, a plot or an idea will work, we visit, listen and tell you honestly. You receive a short written report with sketches, a cost range and recommended next steps.",
+      "points": [
+        "Half-day visit to the site",
+        "Sketch options and a cost range",
+        "A written report within two weeks",
+        "Credited against later design fees"
+      ],
+      "duration": "1 to 2 weeks",
+      "image": "images/journal/sketch-of-linden-house.webp",
+      "published": true
+    }
+  ],
+  "team": [
+    {
+      "id": "mara-voss",
+      "name": "Mara Voss",
+      "role": "Founding partner, architect",
+      "bio": "Mara founded the studio in 2012 after working on public buildings. She leads the larger projects and still draws every first sketch herself.",
+      "photo": "images/team/mara-voss.webp",
+      "published": true
+    },
+    {
+      "id": "idris-okafor",
+      "name": "Idris Okafor",
+      "role": "Partner, interior design",
+      "bio": "Idris leads interiors. He keeps the material library and believes every room should have one surprising colour.",
+      "photo": "images/team/idris-okafor.webp",
+      "published": true
+    },
+    {
+      "id": "hana-lindqvist",
+      "name": "Hana Lindqvist",
+      "role": "Project architect",
+      "bio": "Hana runs projects from planning to completion. She is the person who knows exactly where every drawing is.",
+      "photo": "images/team/hana-lindqvist.webp",
+      "published": true
+    },
+    {
+      "id": "tomas-reyes",
+      "name": "Tomas Reyes",
+      "role": "Technologist and site lead",
+      "bio": "Tomas turns drawings into details that can be built, and visits every site every week.",
+      "photo": "images/team/tomas-reyes.webp",
+      "published": true
+    }
+  ],
+  "journal": [
+    {
+      "id": "why-we-start-with-a-walk",
+      "kind": "journal",
+      "title": "Why we start every project with a walk",
+      "date": "2026-09-30",
+      "category": "Notes",
+      "cover": "images/journal/sketch-of-linden-house.webp",
+      "summary": "Before any drawing, we visit the site at three different times of day. Here is what we look for.",
+      "body": "The first thing we do on a new project is visit. Not for an hour, but for most of a day, and sometimes again in the evening.\n\nWe look for where the light lands in the morning and where it lingers in the afternoon. We note where the wind comes from, which neighbours can see in and which views are worth keeping.\n\nWe also watch how people already move. In a house, that might be where the family drops its bags. In a café, it is where the queue forms.\n\nThese notes end up as the first page of every project file, and we return to them whenever a decision gets difficult.",
+      "source": "",
+      "link": "",
+      "published": true
+    },
+    {
+      "id": "five-materials-one-room",
+      "title": "Five materials, one room: how we choose a palette",
+      "kind": "journal",
+      "date": "2026-08-14",
+      "category": "Materials",
+      "cover": "images/journal/material-palette.webp",
+      "summary": "Oak, stone, terracotta, brass and tile: a quick guide to making a palette that feels calm.",
+      "body": "A good palette is smaller than you think. We rarely use more than five materials in a room.\n\nWe start with one natural material that will age well, such as oak or stone. Then we add one colour that carries the room, like terracotta or deep green, and one metal for the details.\n\nSamples live on a table in our material library. We ask clients to take them home and look at them in their own light, at different times of day, before anything is ordered.",
+      "source": "",
+      "link": "",
+      "published": true
+    },
+    {
+      "id": "timber-frame-at-saltmarsh",
+      "title": "A timber frame goes up at Saltmarsh",
+      "kind": "journal",
+      "date": "2026-06-02",
+      "category": "Process",
+      "cover": "images/journal/timber-frame-on-site.webp",
+      "summary": "The frame of the cabin was raised in two days. A few photos and notes from the site.",
+      "body": "The Saltmarsh frame arrived in numbered pieces and went up in two days with a crew of five.\n\nBecause the building stands on posts, the first job was setting the posts to millimetre accuracy. Everything else followed from that.\n\nWe visit weekly, but the frame raising is the day we never miss.",
+      "source": "",
+      "link": "",
+      "published": true
+    },
+    {
+      "id": "ember-and-oat-one-year-on",
+      "title": "Ember & Oat, one year on",
+      "kind": "journal",
+      "date": "2026-03-20",
+      "category": "News",
+      "cover": "images/journal/cafe-at-dusk.webp",
+      "summary": "We went back to the café at dusk to see how the room is used.",
+      "body": "We went back to Ember & Oat on a Friday evening. The banquette was full, the pendant lights were glowing and the pavement tables were taken.\n\nWhat made us happiest was that the staff had moved nothing. The counter, the stools and the tables are exactly where we drew them.",
+      "source": "",
+      "link": "",
+      "published": true
+    },
+    {
+      "id": "studios-to-watch",
+      "title": "Lumen & Line named among the studios to watch",
+      "kind": "press",
+      "date": "2026-07-09",
+      "category": "Press",
+      "cover": "",
+      "summary": "A profile of the studio and its approach to small houses.",
+      "body": "",
+      "source": "Calder Review",
+      "link": "https://example.com/calder-review/studios-to-watch",
+      "published": true
+    },
+    {
+      "id": "library-in-a-warehouse",
+      "title": "The Reading Room: a library in a former warehouse",
+      "kind": "press",
+      "date": "2025-02-11",
+      "category": "Press",
+      "cover": "",
+      "summary": "A feature on the Reading Room and its wall of shelving.",
+      "body": "",
+      "source": "Harbour Architecture Quarterly",
+      "link": "https://example.com/haq/the-reading-room",
+      "published": true
+    },
+    {
+      "id": "small-house-long-view",
+      "title": "Small house, long view: Saltmarsh Cabin",
+      "kind": "press",
+      "date": "2024-05-27",
+      "category": "Press",
+      "cover": "",
+      "summary": "A short piece on the cabin raised above the marsh.",
+      "body": "",
+      "source": "Houses Today",
+      "link": "https://example.com/houses-today/saltmarsh-cabin",
+      "published": true
+    }
+  ]
+}

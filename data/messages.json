@@ -1,0 +1,72 @@
+[
+  {
+    "id": "iq-gp9uu7",
+    "created": "2026-10-21T03:30:46Z",
+    "name": "Amelia Hart",
+    "email": "amelia.hart@example.com",
+    "phone": "+44 20 5550 0188",
+    "kind": "extension",
+    "budget": "100,000 to 400,000",
+    "timeline": "Within a year",
+    "place": "Wren Lane, Northgate",
+    "message": "We have a 1930s semi with a dark rear kitchen and a long garden. We would love a glazed extension and would like to talk about what is possible and whether we need planning permission.",
+    "status": "new",
+    "note": ""
+  },
+  {
+    "id": "iq-8bu7e6",
+    "created": "2026-10-19T01:30:46Z",
+    "name": "Jonas Berg",
+    "email": "jonas.berg@example.com",
+    "phone": "",
+    "kind": "commercial",
+    "budget": "25,000 to 100,000",
+    "timeline": "Within 6 months",
+    "place": "Calder Quay",
+    "message": "I am opening a small bakery and need help with the layout and a counter. The unit is 60 square metres with a street window.",
+    "status": "new",
+    "note": ""
+  },
+  {
+    "id": "iq-jszith",
+    "created": "2026-10-16T05:30:46Z",
+    "name": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "phone": "+44 20 5550 0167",
+    "kind": "interior",
+    "budget": "Under 25,000",
+    "timeline": "As soon as possible",
+    "place": "Marlow Quarter",
+    "message": "Our bathroom is dated and cramped. Can you help with a redesign, and how long does a job like this usually take?",
+    "status": "read",
+    "note": "Call back Thursday morning."
+  },
+  {
+    "id": "iq-ka963v",
+    "created": "2026-10-12T04:30:46Z",
+    "name": "Tobias Klein",
+    "email": "tobias.klein@example.com",
+    "phone": "",
+    "kind": "house",
+    "budget": "Over 400,000",
+    "timeline": "Just exploring",
+    "place": "Marsh Point",
+    "message": "We own a plot near the estuary and are exploring a small low-impact house. A feasibility visit would be a good first step.",
+    "status": "replied",
+    "note": "Feasibility visit booked."
+  },
+  {
+    "id": "iq-xawx3h",
+    "created": "2026-09-30T06:30:46Z",
+    "name": "Sofia Lund",
+    "email": "sofia.lund@example.com",
+    "phone": "",
+    "kind": "interior",
+    "budget": "Not sure yet",
+    "timeline": "Just exploring",
+    "place": "Maple Row",
+    "message": "Just asking whether you do small kitchen jobs. Thank you.",
+    "status": "archived",
+    "note": "Answered by email."
+  }
+]

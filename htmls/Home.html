@@ -1,0 +1,38 @@
+<div class="hm-site" data-page="Home">
+<a class="hm-skip" href="#hm-main">Skip to content</a>
+<header class="hm-head" id="hm-head">
+    <div class="hm-wrap hm-head-row">
+        <button type="button" class="hm-burger" aria-label="Menu" onclick="HomeJs.openNav()"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+        <a class="hm-logo" href="Home" aria-label="{plhd_brand} home"><img src="images/logo.svg" alt="" width="34" height="34"><span>{plhd_brand}</span></a>
+        <nav class="hm-nav" id="hm-nav" aria-label="Main">
+            <div class="hm-nav-top"><b>Menu</b><button type="button" class="hm-ibtn" aria-label="Close menu" onclick="HomeJs.closeNav()"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+            <ul class="hm-menu">
+                <li><a class="hm-ml hm-on" href="Home">Home</a></li>
+                <li><a class="hm-ml" href="Projects">Projects</a></li>
+                <li><a class="hm-ml" href="Services">Services</a></li>
+                <li><a class="hm-ml" href="Studio">Studio</a></li>
+                <li><a class="hm-ml" href="Journal">Journal</a></li>
+                <li><a class="hm-ml" href="Contact">Contact</a></li>
+            </ul>
+        </nav>
+        <a class="hm-btn hm-head-cta" href="Contact">Start a project</a>
+    </div>
+    <div class="hm-scrim" id="hm-scrim" onclick="HomeJs.closeNav()"></div>
+</header>
+<main class="hm-main" id="hm-main">
+{plhd_blocks}
+</main>
+<footer class="hm-foot">
+    <div class="hm-wrap hm-foot-in">
+        <div class="hm-fbrand">
+            <a class="hm-logo" href="Home"><img src="images/logo.svg" alt="" width="34" height="34"><span>{plhd_brand}</span></a>
+            <p>{plhd_tag}</p>
+        </div>
+        <div class="hm-fcol"><h2>Explore</h2><ul><li><a href="Projects">Projects</a></li><li><a href="Services">Services</a></li><li><a href="Studio">Studio</a></li><li><a href="Journal">Journal and press</a></li></ul></div>
+        <div class="hm-fcol"><h2>Start a project</h2><ul><li><a href="Contact">Send an inquiry</a></li><li><a href="Services">What we offer</a></li><li><a href="Studio">Meet the team</a></li></ul></div>
+        <div class="hm-fcol"><h2>Visit and write</h2><ul class="hm-fcontact">{plhd_fcontact}</ul></div>
+    </div>
+    <div class="hm-wrap hm-foot-b"><span>&copy; {plhd_year} {plhd_brand}. Sample content for a demonstration site.</span><a href="AdminLogin">Staff sign in</a></div>
+</footer>
+<div class="hm-toast" id="hm-toast" role="status" aria-live="polite"></div>
+</div>
