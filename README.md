@@ -121,4 +121,4 @@ public async Task<ApiResponse> Filter()
 
 ## License
 
-See the [LICENSE](LICENSE) file at the project root: the template and sample code are MIT licensed, and the SkyNet Framework (`TheSkyLite.SkyNet`) is proprietary and free to use, including commercially.
+See the [LICENSE](LICENSE) file at the project root: the template and sample code are MIT licensed, and the SkyNet Framework (`TheSkyLite.SkyNet`) is proprietary and free to use for eligible users, including commercially.
